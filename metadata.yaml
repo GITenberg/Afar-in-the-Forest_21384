@@ -1,0 +1,47 @@
+_repo: Afar-in-the-Forest_21384
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Groome, William H. C.
+    aliases:
+    - Groome, W. H. C. (William H. C.)
+    - Groome, W.H.C.
+    gutenberg_agent_id: '9731'
+    url: http://www.gutenberg.org/2009/agents/9731
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W. H. G.
+    - Kingston, W.H.G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: ''
+gutenberg_issued: '2007-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- !lcsh 'Great Lakes (North America) -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+title: Afar in the Forest
+url: http://www.gutenberg.org/ebooks/21384
